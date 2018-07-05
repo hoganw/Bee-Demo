@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Label
+comment0.text=\r\n\ Label\ creates\ a\ label\ of\ with\ inputs\ for\ text,\ and\ font\ size.\ The\ label's\ color\ is\ black,\ but\ may\ be\ changed\r\n\ with\ the\ setColor\ method.\r\n\ \r\n\ @author\ Hogan\ Wrixon\ \r\n\ @version\ 4/22/2017\r\n
+comment1.params=text\ textSize
+comment1.target=Label(java.lang.String,\ int)
+comment1.text=\r\n\ Label\ returns\ a\ String\ and\ size.\r\n\ @param\ text\ is\ a\ String\ displayed\ by\ the\ label.\r\n\ @param\ textSize\ the\ font\ size\ for\ the\ text.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Lable\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=color
+comment3.target=void\ setTextColor(greenfoot.Color)
+comment3.text=\r\n\ sets\ the\ color\ of\ the\ label's\ text\r\n\ @param\ color\ is\ of\ type\ color\ Color(int\ red,\ int\ green,\ int\ blue).\r\n
+comment4.params=font\ fontStyle\ fontSize
+comment4.target=void\ setTextFont(java.lang.String,\ int,\ int)
+comment4.text=\r\n\ sets\ the\ font\ and\ style.\r\n\ @param\ style\ is\ the\ font\ and\ style\ for\ the\ label\ Font(String\ fontName,\ boolean\ bold,\ boolean\ italicize,\ int\ size).\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=text
+comment6.target=void\ setText(java.lang.String)
+comment7.params=
+comment7.target=void\ updateLabel()
+numComments=8

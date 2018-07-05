@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Button\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=newText
+comment1.target=Button(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ updateButton()
+comment4.params=newColor
+comment4.target=void\ setBackgroundColor(greenfoot.Color)
+comment5.params=newColor
+comment5.target=void\ setTextColor(greenfoot.Color)
+comment6.params=newFont\ newFontStyle\ newFontSize
+comment6.target=void\ setTextFont(java.lang.String,\ int,\ int)
+comment7.params=newColor
+comment7.target=void\ setBorderColor(greenfoot.Color)
+comment8.params=width
+comment8.target=void\ setButtonWidth(int)
+comment9.params=height
+comment9.target=void\ setButtonHeight(int)
+numComments=10

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rectangle\ here.\r\n\ \r\n\ @author\ Hogan\ Wrixon\ \r\n\ @version\ 9/15/17\r\n
+comment1.params=newWidth\ newHeight\ newColor
+comment1.target=Rectangle(int,\ int,\ greenfoot.Color)
+comment2.params=
+comment2.target=void\ update()
+comment3.params=newColor
+comment3.target=void\ setColor(greenfoot.Color)
+comment4.params=newColor
+comment4.target=void\ setBorderColor(greenfoot.Color)
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ Act\ -\ do\ whatever\ the\ Rectangle\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=6
